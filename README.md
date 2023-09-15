@@ -1,5 +1,5 @@
 # Galeria_de_Mininos
-Pagina web para visualizar gatitos aleatorios
+## Vite + Vue3
 ### Comandos necesario para su ejecución.
 ```
 npm i
@@ -7,3 +7,4 @@ npm i
 ```
 npm run dev
 ```
+***Pagina web: [Galeria de Mininos](https://enpanada.github.io/Galeria_de_Mininos/)👌.***
